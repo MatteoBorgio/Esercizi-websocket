@@ -1,0 +1,16 @@
+.oggetto {
+    background-color: white;
+    color: white;
+    text-align: center;
+    border-width: 1px;
+    border: solid black;
+    position: absolute;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
